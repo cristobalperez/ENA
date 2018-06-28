@@ -14,9 +14,9 @@
     </head>
     <body>
         <%
-            String user= request.getParameter("username");
-            String pass= request.getParameter("password");
-            String query = "SELECT * FROM usuario where username='"+user+"' and password='"+pass+"';"; 
+            String username= request.getParameter("username");
+            String password= request.getParameter("password");
+            String query = "SELECT * FROM usuario where username='"+username+"' and password='"+password+"';"; 
             Connection con = null;
             Statement st = null;
             ResultSet rs = null;

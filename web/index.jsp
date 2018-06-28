@@ -4,12 +4,12 @@
     <head>
 
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Inicio</title>
     </head>
     <body>
         <div class="div">
             <center>
-            Autentificación
+                <h1>Autentificación</h1>
 <form class="form-horizontal" action="Revisar.jsp">
   <div class="form-group">
     <label class="control-label col-sm-2">Usuario: </label>

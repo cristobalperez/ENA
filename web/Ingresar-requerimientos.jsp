@@ -147,7 +147,7 @@ st2.close();
       <div id='encargado'>  
       
           <label>Encargado:
-              <select name='enca' >  
+              <select name='encargado' >  
       <option value='-1'>- Seleccionar -</option>  
       </select>  
       </div> 
